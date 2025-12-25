@@ -1,1 +1,1 @@
-closes #3
+Testing issue linking
