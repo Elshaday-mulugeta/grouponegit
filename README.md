@@ -1,1 +1,2 @@
-Testing issue linking
+Testing auto label workflow
+
